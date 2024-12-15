@@ -16,7 +16,7 @@ Sigue estos pasos para clonar el proyecto en tu computadora:
 1. Abre una terminal en tu computadora.
 2. Ingresa el siguiente comando para clonar el repositorio:
    ```bash
-   git clone https://github.com/joseeduardomas/proyecto-final-fundamentos-web.git
+   https://github.com/joseeduardomas/herencia_css.git
    ```
 
 
