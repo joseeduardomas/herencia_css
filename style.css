@@ -1,0 +1,40 @@
+/*.tag-product {
+    color: red;
+}
+
+.wrapper-card {
+    color: green;
+    font-size: 50px;
+}
+
+.wrapper-card {
+    color: yellow;
+}*/
+
+
+
+* {
+    background-color: red;
+}
+
+p {
+    background: yellowgreen;
+}
+
+.product-description {
+    background-color: pink;
+}
+
+#unique-description-1{
+    background: skyblue;
+}
+
+
+.elemento-importante {
+    color: red !important;
+}
+
+#subtitulo {
+    color: white;
+    background-color: black;
+}
